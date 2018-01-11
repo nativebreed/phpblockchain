@@ -1,5 +1,5 @@
 <?php
-require_once("./block.php");
+require_once("block.php");
 
 /**
  * A simple blockchain class with proof-of-work (mining).
